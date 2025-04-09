@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riaz-Micro
 - 👀 I’m interested in movies, playing games and coding
 - 🌱 I’m currently learning React and Laravel
-- 💞️ I’m looking to collaborate on GOOD PROJECT
+- 💞️ I’m looking to collaborate on https://dashboard-muktidigital.netlify.app/add-doctor and https://mukti-frontend.vercel.app/
 - 📫 How to reach me : riazuddinmicroters@gmail.com 
 - ⚡ Fun fact: Need Sleep
 
